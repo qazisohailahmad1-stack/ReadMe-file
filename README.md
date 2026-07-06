@@ -4,28 +4,32 @@
 <h3 align="center">🚀 Aspiring DevOps Engineer</h3>
 
 <p align="center">
-Passionate about Linux, Docker, Kubernetes, Jenkins, Terraform, AWS, and Automation.
+Passionate about Linux • Docker • Kubernetes • Jenkins • Terraform • AWS
 </p>
 
-<hr>
+---
 
-<h3>💻 Skills</h3>
+## 💻 Skills
 
-<p>
-🐧 Linux • 🌿 Git • 🐳 Docker • ☸ Kubernetes • ⚙ Jenkins • 🏗 Terraform • ☁ AWS
-</p>
+- 🐧 Linux
+- 🌿 Git & GitHub
+- 🐳 Docker
+- ☸ Kubernetes
+- ⚙ Jenkins
+- 🏗 Terraform
+- ☁ AWS (Learning)
 
-<hr>
+---
 
-<h3>🎯 Current Goal</h3>
+## 🎯 Current Goal
 
-<p>
-Learning DevOps from Beginner to Advanced and building real-world projects.
-</p>
+Become a Professional DevOps Engineer by building real-world projects and continuously learning modern DevOps tools.
 
-<hr>
+---
 
-<p align="center">
-⭐ Learn • Build • Automate • Repeat
-</p>
+<div align="center">
+
+**🚀 Learn • Build • Automate • Repeat 🚀**
+
+</div>
 ```
