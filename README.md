@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">👋 Hi, I'm Sohail Khan</h1>
 
 <h3 align="center">🚀 Aspiring DevOps Engineer</h3>
@@ -32,4 +32,3 @@ Become a Professional DevOps Engineer by building real-world projects and contin
 **🚀 Learn • Build • Automate • Repeat 🚀**
 
 </div>
-```
